@@ -178,8 +178,9 @@ body {
 ```
 
 ## OUTPUT
-![Screenshot 2025-05-01 200315](https://github.com/user-attachments/assets/8e3025cf-eee0-46fe-9e83-07bd3cfc763b)
-![Screenshot 2025-05-01 200324](https://github.com/user-attachments/assets/fecce524-06df-4498-a3d6-f9404de62e55)
+![Untitled design](https://github.com/user-attachments/assets/f5c9df4b-9dce-4f7e-86dd-b85ac4581d28)
+![Untitled design (1)](https://github.com/user-attachments/assets/7a82466f-c549-4073-ac51-1c2e630fb786)
+
 
 
 ## RESULT
